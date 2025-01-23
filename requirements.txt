@@ -46,7 +46,7 @@ ipython>=8.25.0
 jax>=0.4.31
 jaxlib>=0.4.31
 Jinja2>=3.1.4
-joblib>=1.4.2
+joblib==1.1.0
 jsonschema>=4.22.0
 jupyter_client>=8.6.2
 jupyter_core>=5.7.2
@@ -58,7 +58,7 @@ Markdown>=3.7
 matplotlib>=3.9.1
 mediapipe>=0.10.14
 missingno>=0.5.2
-mlxtend>=0.23.1
+mlxtend==0.23.1
 nbconvert>=7.16.4
 networkx>=3.3
 notebook>=7.2.1
@@ -67,7 +67,7 @@ opencv-contrib-python>=4.10.0.84
 opencv-python>=4.10.0.84
 openpyxl>=3.1.5
 pandas>=2.2.2
-pandas-profiling>=3.2.0
+pandas-profiling==3.2.0
 pillow>=10.4.0
 plotly>=5.24.1
 protobuf>=4.25.4
